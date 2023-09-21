@@ -47,7 +47,7 @@
     "dotenv": "^8.6.0",
     "ethers": "^5.6.9",
     "fs": "^0.0.1-security",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "graphql-request": "^5.1.0",
     "mysql2": "^2.3.3",
     "node-fetch": "^2.6.1",
